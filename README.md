@@ -17,7 +17,6 @@ Before running any of the katas, you will need to download some dependencies, us
 If you don't have F# installed yet, follow the instructions from the **use** section of [**fsharp.org**](http://www.fsharp.org).
 
 
-
 ## License
 
 Copyright (c) 2015 Mathias Brandewinder, [MIT License](LICENSE).
